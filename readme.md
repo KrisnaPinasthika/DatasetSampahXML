@@ -3,5 +3,3 @@
 ---
 
 1. buat file xml
-
-something
