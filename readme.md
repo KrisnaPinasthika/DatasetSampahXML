@@ -2,4 +2,5 @@
 
 ---
 
-1. buat file xml
+-   buat file xml
+-   Uji coba dataset
